@@ -1,4 +1,5 @@
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
+[![MasterHead](https://raw.githubusercontent.com/Salman7292/Salman7292/main/Screenshot%202024-07-19%20001510.png)](https://your-link-here)
+
 
 <h1 align="center">Hi 👋, I'm Salman Malik</h1>
 <h3 align="center">A passionate Software Engineer From Pakistan</h3>
