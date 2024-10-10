@@ -78,10 +78,6 @@ Join me on The following Platforms, where I share insights, victories, and even 
 ---
 
 
-<p align="center">
-  <img width="800" height="220" src="https://github-readme-stats.vercel.app/api/top-langs?username=salman7292&show_icons=true&locale=en&layout=compact" alt="salman7292">
-</p>
-
 
 
 
